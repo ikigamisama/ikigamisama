@@ -27,8 +27,8 @@ Feel free to reach out to discuss ideas or ask research-related questions 💬!
 - 💬 Ask me about anything related to tech innovation and AI related stuff.
 - 🔭 Actively seeking opportunities in data-related roles to further enhance my skills and broaden my experience.
 - 🧮 Expanding my knowledge in statistics, Linear algebra and other AI stuff.
-- 📫 Reach me at: [Gmail](mailto:ikigamidevs@gmail.com)
-- 🧾 Check out my [resume](https://https://ikigami-devs.vercel.app/files/fraanz_monzales_cv.pdf).
+- 📫 Reach me at: [Gmail](mailto:ikigamidevs@gmail.com) 
+- 🧾 Check out my [resume](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/resume/franz_monzales_cv.pdf).
 - 📝 I sometimes write articles on [my blog](https://ikigami-project-blog.vercel.app).
 - ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
 
