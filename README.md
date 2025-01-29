@@ -14,12 +14,7 @@ Feel free to reach out to discuss ideas or ask research-related questions 💬!
 
 ## 🧮 Stratascratch:
 
-<p align="center">
-    <a href="https://platform.stratascratch.com/user/iikigami" target="_blank"> 
-        <img width="100%" src="https://raw.githubusercontent.com/ikigamisama/ikigamisama/refs/heads/main/images/stratascratch.PNG" alt="Iki's Spotify" />
-    </a>
-</p>
-<br>
+For now, i did reset my account progress in order for me to do it again in Stratascratch, I will update once i made a huge progress on it 
 
 ## ⚡ A Few Quick Facts:
 
