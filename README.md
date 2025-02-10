@@ -30,6 +30,8 @@ Now this is what i did in just 1 week just refreshing my knowledge in SQL, Panda
     </a>
 </p>
 <br>
+
+
 ## ⚡ A Few Quick Facts:
 
 - 😄 Pronouns: He/Him
