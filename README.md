@@ -14,8 +14,22 @@ Feel free to reach out to discuss ideas or ask research-related questions 💬!
 
 ## 🧮 Stratascratch:
 
-For now, i did reset my account progress in order for me to do it again in Stratascratch, I will update once i made a huge progress on it 
+So this is my previous record before i did a reset in progress in order for me to refresh my learning at the same time practice.
+<p align="center">
+    <a href="https://platform.stratascratch.com/user/iikigami" target="_blank"> 
+        <img width="100%" src="https://raw.githubusercontent.com/ikigamisama/ikigamisama/refs/heads/main/images/stratascratch-old-file.PNG" alt="Iki's Old Record" />
+    </a>
+</p>
+<br>
 
+Now this is what i did in just 1 week just refreshing my knowledge in SQL, Pandas and they should add the polaris since i was sable to solve 100 question too 
+
+<p align="center">
+    <a href="https://platform.stratascratch.com/user/iikigami" target="_blank"> 
+        <img width="100%" src="https://raw.githubusercontent.com/ikigamisama/ikigamisama/refs/heads/main/images/stratascratch-new-file.png" alt="Iki's New Stratascratch Record" />
+    </a>
+</p>
+<br>
 ## ⚡ A Few Quick Facts:
 
 - 😄 Pronouns: He/Him
