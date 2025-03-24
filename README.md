@@ -1,6 +1,6 @@
 # Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Franz Monzales](https://ikigami-devs.vercel.app)
 
-Hi, I'm Franz Monzales 👋, a passionate Data Analyst and Data Science enthusiast with over 5 years of experience in web development 💻. I’m skilled in Python, SQL, machine learning, and advanced data science techniques that help turn complex data into actionable insights 📊. Currently, I'm focused on applying my data science skills to solve real-world problems, combining my technical expertise with a strategic mindset to deliver meaningful solutions.
+Hey there, I'm Franz Monzales 👋—a driven Data Analyst and aspiring Data Engineer with 5+ years of web development expertise 💻. I specialize in Python, SQL, and machine learning, transforming complex data into powerful insights 📊. My passion lies in leveraging data science to tackle real-world challenges, blending technical prowess with a strategic mindset to deliver impactful solutions. Let’s turn data into decisions! 🚀
 
 Having worked on diverse projects such as stock market analysis 📈, loan approval prediction 💳, and customer segmentation 📊, I enjoy exploring new challenges and constantly learning to grow my skill set. I hold certifications in IBM Data Science and 365 Data Analyst programs, and I’m passionate about leveraging data to unlock business opportunities and optimize performance 🚀.
 
