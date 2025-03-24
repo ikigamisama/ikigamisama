@@ -26,7 +26,7 @@ Now this is what i did in just 1 week just refreshing my knowledge in SQL, Panda
 
 <p align="center">
     <a href="https://platform.stratascratch.com/user/iikigami" target="_blank"> 
-        <img width="100%" src="https://raw.githubusercontent.com/ikigamisama/ikigamisama/refs/heads/main/images/stratascratch-new-file.png" alt="Iki's New Stratascratch Record" />
+        <img width="100%" src="https://raw.githubusercontent.com/ikigamisama/ikigamisama/refs/heads/main/images/stratascratch-new-file.PNG" alt="Iki's New Stratascratch Record" />
     </a>
 </p>
 <br>
