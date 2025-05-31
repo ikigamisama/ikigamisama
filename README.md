@@ -1,10 +1,12 @@
 # Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Franz Monzales](https://ikigami-devs.vercel.app)
 
-Hey there, I'm Franz Monzales 👋—a driven Data Analyst and aspiring Data Engineer with 5+ years of web development expertise 💻. I specialize in Python, SQL, and machine learning, transforming complex data into powerful insights 📊. My passion lies in leveraging data science to tackle real-world challenges, blending technical prowess with a strategic mindset to deliver impactful solutions. Let’s turn data into decisions! 🚀
+Hey there, I'm Franz Monzales 👋—a driven Data Analyst and aspiring Data Engineer with over 5 years of experience in web development 💻. I specialize in Python, SQL, and machine learning, turning complex data into actionable insights 📊. My passion lies in solving real-world problems through data, combining strong technical skills with strategic thinking to deliver impactful solutions. Let’s turn data into decisions! 🚀
 
-Having worked on diverse projects such as stock market analysis 📈, loan approval prediction 💳, and customer segmentation 📊, I enjoy exploring new challenges and constantly learning to grow my skill set. I hold certifications in IBM Data Science and 365 Data Analyst programs, and I’m passionate about leveraging data to unlock business opportunities and optimize performance 🚀.
+Currently, I'm deepening my expertise in Data Engineering, focusing on ETL pipelines, web scraping, data warehousing, PySpark, data modeling, and data manipulation. I’m hands-on with building scalable data pipelines and transforming raw data into high-value assets for analytics and decision-making.
 
-Feel free to reach out to discuss ideas or ask research-related questions 💬!
+I’ve worked on diverse projects such as stock market analysis 📈, loan approval prediction 💳, and customer segmentation 📊, and I thrive on tackling new challenges and expanding my skill set. I’m certified in both the IBM Data Science and 365 Data Analyst programs, and I’m passionate about unlocking business opportunities through the power of data 🚀.
+
+Feel free to connect—whether you want to exchange ideas, collaborate on data projects, or just chat about research and tech trends 💬!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iikigami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-monzales-671775135) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikigamidevs)
 
