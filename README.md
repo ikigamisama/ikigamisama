@@ -48,23 +48,7 @@ Feel free to connect—whether you want to exchange ideas, collaborate on data p
 
 ## 🧮 Stratascratch:
 
-So this is my previous record before i did a reset in progress in order for me to refresh my learning at the same time practice.
-
-<p align="center">
-    <a href="https://platform.stratascratch.com/user/iikigami" target="_blank"> 
-        <img width="100%" src="https://raw.githubusercontent.com/ikigamisama/ikigamisama/refs/heads/main/images/stratascratch-old-file.PNG" alt="Iki's Old Record" />
-    </a>
-</p>
-<br>
-
-Now this is what i did in just 1 week just refreshing my knowledge in SQL, Pandas and they should add the polaris since i was sable to solve 100 question too
-
-<p align="center">
-    <a href="https://platform.stratascratch.com/user/iikigami" target="_blank"> 
-        <img width="100%" src="https://raw.githubusercontent.com/ikigamisama/ikigamisama/refs/heads/main/images/stratascratch-new-file.PNG" alt="Iki's New Stratascratch Record" />
-    </a>
-</p>
-<br>
+Will update soon
 
 # 📊 GitHub Stats:
 
