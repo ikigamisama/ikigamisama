@@ -16,6 +16,8 @@ Feel free to connect—whether you want to exchange ideas, collaborate on data p
 
 ## 🎓 Certifications:
 
+- [Certificate of achievement - Data Engineer - 365 Data Science](https://learn.365datascience.com/certificates/DD-0FA99845A0/)
+
 - [DeepLearning.AI Data Engineering](https://www.coursera.org/account/accomplishments/professional-cert/1AT47XEDRYSM)
 
 - [Certificate of achievement - Data Scientist - 365 Data Science](https://learn.365datascience.com/certificates/DD-DFAA0CDAE2/)
