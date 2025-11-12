@@ -1,12 +1,12 @@
 # Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Franz Monzales](https://ikigami-devs.vercel.app)
 
-Hey there, I'm Franz Monzales 👋—a driven Data Analyst and aspiring Data Engineer with over 5 years of experience in web development 💻. I specialize in Python, SQL, and machine learning, turning complex data into actionable insights 📊. My passion lies in solving real-world problems through data, combining strong technical skills with strategic thinking to deliver impactful solutions. Let’s turn data into decisions! 🚀
+Hey! I’m Franz Monzales 👋 — a Data Engineer in progress with a strong foundation in Python, SQL, and data architecture. With 5+ years of experience in web development, I bring a full-stack mindset to data — designing pipelines, automating workflows, and transforming raw data into reliable, analytics-ready assets.
 
-Currently, I'm deepening my expertise in Data Engineering, focusing on ETL pipelines, web scraping, data warehousing, PySpark, data modeling, and data manipulation. I’m hands-on with building scalable data pipelines and transforming raw data into high-value assets for analytics and decision-making.
+I’m currently focused on building scalable ETL systems, data models, and warehouse pipelines using tools like Airflow, dbt, and DuckDB — blending engineering precision with data storytelling.
 
-I’ve worked on diverse projects such as stock market analysis 📈, loan approval prediction 💳, and customer segmentation 📊, and I thrive on tackling new challenges and expanding my skill set. I’m certified in both the IBM Data Science and 365 Data Analyst programs, and I’m passionate about unlocking business opportunities through the power of data 🚀.
+I enjoy working on end-to-end projects — from web scraping and API integration to building medallion architectures and analytics-ready marts. My goal is simple: make data flow smarter, faster, and cleaner 🚀
 
-Feel free to connect—whether you want to exchange ideas, collaborate on data projects, or just chat about research and tech trends 💬!
+Let’s connect if you’re into data infrastructure, automation, or building modern data stacks — always happy to collaborate and learn together 💬
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iikigami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-monzales-671775135) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikigamidevs)
 
