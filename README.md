@@ -21,9 +21,41 @@ These showcase my DE skills—end-to-end pipelines, streaming, and data quality.
 - **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**: Remittance pipeline with microservices, TimescaleDB, and Streamlit dashboards.
 - **[DataLakehouse-Delta]((https://github.com/ikigamisama/DataLakehouse-Delta))**: A production-ready Data Lakehouse implementation
 
-## 💻 Tech Stack:
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+## 🛠️ Skills & Tech Stack
+Prioritizing **data engineering** tools; web dev background adds full-stack context for end-to-end solutions.
+
+| Category          | Tools/Skills                                                                 | Proficiency |
+|-------------------|-----------------------------------------------------------------------------|-------------|
+| **Orchestration** | Airflow, dbt, Docker                                                        | Advanced   |
+| **Big Data**      | Spark (Structured Streaming), Kafka/Redpanda, PostgreSQL/TimescaleDB        | Intermediate |
+| **Languages**     | Python, SQL, JavaScript/TypeScript                                          | Advanced   |
+| **Data Quality**  | Great Expectations, Idempotency, PII Handling, Fraud Rules                  | Intermediate |
+| **Cloud/DevOps**  | Heroku, Vercel, DigitalOcean, Render, Git, CI/CD                            | Intermediate |
+| **Analytics/ML**  | Pandas, NumPy, Scikit-learn, Matplotlib/Plotly, Keras/TensorFlow            | Basic      |
+| **Web/Frontend**  | FastAPI, React/Next.js, GraphQL, Prisma/Supabase                             | Advanced   |
+
+### 🔧 Visual Tech Badges
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) 
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-003B77?style=flat-square&logo=timescale&logoColor=white) 
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-4B32C3?style=flat-square&logo=great-expectations&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ## 🎓 Certifications:
 
