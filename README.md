@@ -1,14 +1,25 @@
-# Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Franz Monzales](https://ikigami-devs.vercel.app)
+# Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Waving hand"></a> I'm Franz Monzales
 
-Hey! I’m Franz Monzales 👋 — a Data Engineer in progress with a strong foundation in Python, SQL, and data architecture. With 5+ years of experience in web development, I bring a full-stack mindset to data — designing pipelines, automating workflows, and transforming raw data into reliable, analytics-ready assets.
+Hey! I’m Franz Monzales 👋 — a Data Engineer based in the Philippines with 5+ years in tech, transitioning from web development to scalable data pipelines. I specialize in ETL/ELT systems, data modeling, and orchestration using modern tools like Airflow, dbt, Spark, and Kafka. My focus: Building production-grade medallion architectures, real-time streaming, and analytics marts for fintech and beyond.
 
-I’m currently focused on building scalable ETL systems, data models, and warehouse pipelines using tools like Airflow, dbt, and DuckDB — blending engineering precision with data storytelling.
-
-I enjoy working on end-to-end projects — from web scraping and API integration to building medallion architectures and analytics-ready marts. My goal is simple: make data flow smarter, faster, and cleaner 🚀
-
-Let’s connect if you’re into data infrastructure, automation, or building modern data stacks — always happy to collaborate and learn together 💬
+Actively seeking mid-level DE roles (remote/PH-based). Let's connect on data infrastructure or collaboration opportunities!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iikigami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-monzales-671775135) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikigamidevs)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-monzales-671775135) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikigamidevs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iikigami) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ikigami-devs.vercel.app) [![Blog](https://img.shields.io/badge/Blog-%2320232a.svg?logo=markdown&logoColor=white)](https://ikigami-project-blog.vercel.app)
+
+📫 Reach me: [ikigamidevs@gmail.com](mailto:ikigamidevs@gmail.com) | [Resume (PDF)](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/resume/franz_monzales_cv.pdf)
+
+## 🚀 Key Projects
+These showcase my DE skills—end-to-end pipelines, streaming, and data quality. Check repos for diagrams, code, and setups.
+
+- **[SyntheticDataCrafter](https://github.com/ikigamisama/SyntheticDataCrafter)**: Fluent API for generating realistic synthetic datasets (stats distributions, multi-format export).
+- **[finance_analytics_dbt](https://github.com/ikigamisama/finance_analytics_dbt)**: 100+ dbt models for banking analytics (Kimball modeling, SCD Type 2, incremental loads).
+- **[ETL_Innovation_Connectivity](https://github.com/ikigamisama/ETL_Innovation_Connectivity)**: Airflow-orchestrated ETL with medallion architecture, data quality (Great Expectations), and alerting.
+- **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**: Async web scraper with Playwright, ready for ETL integration (error handling, retries).
+- **[Walletflow-PH](https://github.com/ikigamisama/Walletflow-PH)**: Real-time wallet analytics with Spark Streaming, Kafka, fraud detection.
+- **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**: Remittance pipeline with microservices, TimescaleDB, and Streamlit dashboards.
+- **[DataLakehouse-Delta]((https://github.com/ikigamisama/DataLakehouse-Delta))**: A production-ready Data Lakehouse implementation
 
 ## 💻 Tech Stack:
 
@@ -28,16 +39,6 @@ Let’s connect if you’re into data infrastructure, automation, or building mo
 
 - [IBM Data Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/7SNWN9YKGZVR)
 
-## ⚡ A Few Quick Facts:
-
-- 😄 Pronouns: He/Him
-- 💬 Ask me about anything related to tech innovation and AI related stuff.
-- 🔭 Actively seeking opportunities in data-related roles to further enhance my skills and broaden my experience.
-- 🧮 Expanding my knowledge in statistics, Linear algebra and other AI stuff.
-- 📫 Reach me at: [Gmail](mailto:ikigamidevs@gmail.com)
-- 🧾 Check out my [resume](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/resume/franz_monzales_cv.pdf).
-- 📝 I sometimes write articles on [my blog](https://ikigami-project-blog.vercel.app).
-- ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
 
 ## 🎧 Spotify Playing:
 
