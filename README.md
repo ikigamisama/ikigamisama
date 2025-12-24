@@ -85,16 +85,6 @@ Prioritizing **data engineering** tools; web dev background adds full-stack cont
 
 Will update soon
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ikigamisama&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ikigamisama&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikigamisama&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ikigamisama&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ikigamisama&icon=2&color=1)](https://visitcount.itsvg.in)
