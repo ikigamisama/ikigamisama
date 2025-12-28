@@ -19,7 +19,8 @@ These showcase my DE skills—end-to-end pipelines, streaming, and data quality.
 - **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**: Async web scraper with Playwright, ready for ETL integration (error handling, retries).
 - **[Walletflow-PH](https://github.com/ikigamisama/Walletflow-PH)**: Real-time wallet analytics with Spark Streaming, Kafka, fraud detection.
 - **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**: Remittance pipeline with microservices, TimescaleDB, and Streamlit dashboards.
-- **[DataLakehouse-Delta]((https://github.com/ikigamisama/DataLakehouse-Delta))**: A production-ready Data Lakehouse implementation
+- **[DataLakehouse-Delta](https://github.com/ikigamisama/DataLakehouse-Delta)**: A production-ready Data Lakehouse implementation
+- **[Finance-Analytics-DBT](https://github.com/ikigamisama/finance_analytics_dbt)** A production-ready, end-to-end financial analytics platform implementing modern data engineering best practices with comprehensive visualization capabilities.
 
 
 ## 🛠️ Skills & Tech Stack
