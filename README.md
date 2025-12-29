@@ -15,6 +15,7 @@ These showcase my DE skills—end-to-end pipelines, streaming, and data quality.
 
 - **[SyntheticDataCrafter](https://github.com/ikigamisama/SyntheticDataCrafter)**: Fluent API for generating realistic synthetic datasets (stats distributions, multi-format export).
 - **[finance_analytics_dbt](https://github.com/ikigamisama/finance_analytics_dbt)**: 100+ dbt models for banking analytics (Kimball modeling, SCD Type 2, incremental loads).
+- **[Data-Swiss-Knife-with-AI](https://github.com/ikigamisama/Data-Swiss-Knife-with-AI)**: Production-ready data analysis platform powered by Streamlit and Ollama
 - **[ETL_Innovation_Connectivity](https://github.com/ikigamisama/ETL_Innovation_Connectivity)**: Airflow-orchestrated ETL with medallion architecture, data quality (Great Expectations), and alerting.
 - **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**: Async web scraper with Playwright, ready for ETL integration (error handling, retries).
 - **[Walletflow-PH](https://github.com/ikigamisama/Walletflow-PH)**: Real-time wallet analytics with Spark Streaming, Kafka, fraud detection.
