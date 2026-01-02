@@ -4,8 +4,6 @@ Hey! I’m Franz Monzales 👋 — a Data Engineer based in the Philippines with
 
 Actively seeking mid-level DE roles (remote/PH-based). Let's connect on data infrastructure or collaboration opportunities!
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iikigami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-monzales-671775135) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikigamidevs)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-monzales-671775135) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikigamidevs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iikigami) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ikigami-devs.vercel.app) [![Blog](https://img.shields.io/badge/Blog-%2320232a.svg?logo=markdown&logoColor=white)](https://ikigami-project-blog.vercel.app)
 
 📫 Reach me: [ikigamidevs@gmail.com](mailto:ikigamidevs@gmail.com) | [Resume (PDF)](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/resume/franz_monzales_cv.pdf)
