@@ -20,7 +20,7 @@ These showcase my DE skills—end-to-end pipelines, streaming, and data quality.
 - **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**: Remittance pipeline with microservices, TimescaleDB, and Streamlit dashboards.
 - **[DataLakehouse-Delta](https://github.com/ikigamisama/DataLakehouse-Delta)**: A production-ready Data Lakehouse implementation
 - **[Finance-Analytics-DBT](https://github.com/ikigamisama/finance_analytics_dbt)** A production-ready, end-to-end financial analytics platform implementing modern data engineering best practices with comprehensive visualization capabilities.
-- **[The Modern Data Stack Cheat Sheet]([https://github.com/ikigamisama/finance_analytics_dbt](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet))** A practical, engineering-first reference for Data Analysts, Analytics Engineers, and Data Engineers.
+- **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)** A practical, engineering-first reference for Data Analysts, Analytics Engineers, and Data Engineers.
 
 
 ## 🛠️ Skills & Tech Stack
