@@ -22,6 +22,7 @@ These showcase my DE skills—end-to-end pipelines, streaming, and data quality.
 - **[Finance-Analytics-DBT](https://github.com/ikigamisama/finance_analytics_dbt)** A production-ready, end-to-end financial analytics platform implementing modern data engineering best practices with comprehensive visualization capabilities.
 - **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)** A practical, engineering-first reference for Data Analysts, Analytics Engineers, and Data Engineers.
 - **[PSEI_CAPM](https://github.com/ikigamisama/PSEI_CAPM)** A Streamlit Application for CAPM for Philippines Stock Exchange.
+- **[Simple-Coffee-Shop-Sales-Dashboard](https://github.com/ikigamisama/Simple-Coffee-Shop-Sales-Dashboard)** An interactive sales analytics dashboard built with Streamlit and Plotly for visualizing coffee shop business metrics and trends.
 
 
 ## 🛠️ Skills & Tech Stack
