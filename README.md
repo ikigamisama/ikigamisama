@@ -23,6 +23,9 @@ These showcase my DE skills—end-to-end pipelines, streaming, and data quality.
 - **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)** A practical, engineering-first reference for Data Analysts, Analytics Engineers, and Data Engineers.
 - **[PSEI_CAPM](https://github.com/ikigamisama/PSEI_CAPM)** A Streamlit Application for CAPM for Philippines Stock Exchange.
 - **[Simple-Coffee-Shop-Sales-Dashboard](https://github.com/ikigamisama/Simple-Coffee-Shop-Sales-Dashboard)** An interactive sales analytics dashboard built with Streamlit and Plotly for visualizing coffee shop business metrics and trends.
+- **[Sales-Analysis-Dashboard-Streamlit](Sales-Analysis-Dashboard-Streamlit)** A comprehensive sales analytics dashboard built with Streamlit and Plotly for visualizing Acme Corporation's performance, trends, and revenue insights.
+- **[Customer-Behavior-Analytics](https://github.com/ikigamisama/Customer-Behavior-Analytics)** Comprehensive analytics dashboard provides actionable insights into customer purchasing patterns, preferences, and behaviors
+- **[E-Commerce-Sales-Analytics-Dashboard](https://github.com/ikigamisama/E-Commerce-Sales-Analytics-Dashboard)** A comprehensive, interactive dashboard for analyzing e-commerce sales performance, built with Streamlit and Plotly.
 
 
 ## 🛠️ Skills & Tech Stack
