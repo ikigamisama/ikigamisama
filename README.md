@@ -38,7 +38,7 @@
   <a href="https://twitter.com/ikigamidevs" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ikigamidevs@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ikigamisama" target="_blank">
