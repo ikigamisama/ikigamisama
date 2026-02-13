@@ -1,31 +1,98 @@
-# Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Waving hand"></a> I'm Franz Monzales
+<div align="center">
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Franz Monzales</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Philippines;Building+Scalable+Data+Pipelines;ETL+•+dbt+•+Airflow+•+Spark+•+Kafka;Fintech+&+Real-time+Systems" alt="Typing SVG" />
+  
+  <br/>
+  
+  <p>
+    <strong>5+ years in tech</strong> — transitioned from full-stack web dev to crafting production-grade data infrastructure.
+  </p>
+  
+  <p>
+    I design <strong>end-to-end data platforms</strong>: medallion architectures, real-time streaming, reliable ETL/ELT, dimensional modeling, and analytics-ready marts — mostly for fintech/remittance/wallet use cases.
+  </p>
 
-Hey! I’m Franz Monzales 👋 — a Data Engineer based in the Philippines with 5+ years in tech, transitioning from web development to scalable data pipelines. I specialize in ETL/ELT systems, data modeling, and orchestration using modern tools like Airflow, dbt, Spark, and Kafka. My focus: Building production-grade medallion architectures, real-time streaming, and analytics marts for fintech and beyond.
+  <p>
+    <em>Actively seeking mid-level Data Engineer roles (remote / PH-based). Open to collaboration on modern data projects!</em>
+  </p>
 
-Actively seeking mid-level DE roles (remote/PH-based). Let's connect on data infrastructure or collaboration opportunities!
+  <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franz-monzales-671775135) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikigamidevs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iikigami) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://ikigami-devs.vercel.app) [![Blog](https://img.shields.io/badge/Blog-%2320232a.svg?logo=markdown&logoColor=white)](https://ikigami-project-blog.vercel.app)
+  <!-- Badges / Quick facts -->
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/dbt-Advanced-FF694B?style=for-the-badge&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Airflow-Experienced-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Spark-Kafka-Streaming-000000?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark & Kafka" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-Lakehouse-4C8BF5?style=for-the-badge&logoColor=white" alt="Delta Lake" />
 
-📫 Reach me: [ikigamidevs@gmail.com](mailto:ikigamidevs@gmail.com) | [Resume (PDF)](https://tdhghaslnufgtzjybhhf.supabase.co/storage/v1/object/public/resume/franz_monzales_cv.pdf)
+  <br/><br/>
+
+  <!-- Social links -->
+  <a href="https://www.linkedin.com/in/franz-monzales" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ikigamidevs" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ikigamisama" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
 
 ## 🚀 Key Projects
-These showcase my DE skills—end-to-end pipelines, streaming, and data quality. Check repos for diagrams, code, and setups.
 
-- **[SyntheticDataCrafter](https://github.com/ikigamisama/SyntheticDataCrafter)**: Fluent API for generating realistic synthetic datasets (stats distributions, multi-format export).
-- **[finance_analytics_dbt](https://github.com/ikigamisama/finance_analytics_dbt)**: 100+ dbt models for banking analytics (Kimball modeling, SCD Type 2, incremental loads).
-- **[Data-Swiss-Knife-with-AI](https://github.com/ikigamisama/Data-Swiss-Knife-with-AI)**: Production-ready data analysis platform powered by Streamlit and Ollama
-- **[ETL_Innovation_Connectivity](https://github.com/ikigamisama/ETL_Innovation_Connectivity)**: Airflow-orchestrated ETL with medallion architecture, data quality (Great Expectations), and alerting.
-- **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**: Async web scraper with Playwright, ready for ETL integration (error handling, retries).
-- **[Walletflow-PH](https://github.com/ikigamisama/Walletflow-PH)**: Real-time wallet analytics with Spark Streaming, Kafka, fraud detection.
-- **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**: Remittance pipeline with microservices, TimescaleDB, and Streamlit dashboards.
-- **[DataLakehouse-Delta](https://github.com/ikigamisama/DataLakehouse-Delta)**: A production-ready Data Lakehouse implementation
-- **[Finance-Analytics-DBT](https://github.com/ikigamisama/finance_analytics_dbt)** A production-ready, end-to-end financial analytics platform implementing modern data engineering best practices with comprehensive visualization capabilities.
-- **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)** A practical, engineering-first reference for Data Analysts, Analytics Engineers, and Data Engineers.
-- **[PSEI_CAPM](https://github.com/ikigamisama/PSEI_CAPM)** A Streamlit Application for CAPM for Philippines Stock Exchange.
-- **[Simple-Coffee-Shop-Sales-Dashboard](https://github.com/ikigamisama/Simple-Coffee-Shop-Sales-Dashboard)** An interactive sales analytics dashboard built with Streamlit and Plotly for visualizing coffee shop business metrics and trends.
-- **[Sales-Analysis-Dashboard-Streamlit](Sales-Analysis-Dashboard-Streamlit)** A comprehensive sales analytics dashboard built with Streamlit and Plotly for visualizing Acme Corporation's performance, trends, and revenue insights.
-- **[Customer-Behavior-Analytics](https://github.com/ikigamisama/Customer-Behavior-Analytics)** Comprehensive analytics dashboard provides actionable insights into customer purchasing patterns, preferences, and behaviors
-- **[E-Commerce-Sales-Analytics-Dashboard](https://github.com/ikigamisama/E-Commerce-Sales-Analytics-Dashboard)** A comprehensive, interactive dashboard for analyzing e-commerce sales performance, built with Streamlit and Plotly.
+These repositories demonstrate end-to-end Data Engineering skills — from scalable pipelines and lakehouse architecture to real-time streaming, data quality, analytics platforms, and AI-assisted tools. Most include architecture diagrams, full code, deployment setups, and documentation.
+
+### Data Engineering & Pipelines
+- **[DataLakehouse-Delta](https://github.com/ikigamisama/DataLakehouse-Delta)**  
+  Production-grade Data Lakehouse implementation using Delta Lake (ACID transactions, time travel, schema enforcement).
+
+- **[ETL_Innovation_Connectivity](https://github.com/ikigamisama/ETL_Innovation_Connectivity)**  
+  Airflow-orchestrated medallion architecture ETL pipeline with Great Expectations for data quality, monitoring, and alerting.
+
+- **[finance_analytics_dbt](https://github.com/ikigamisama/finance_analytics_dbt)**  
+  100+ dbt models for banking/financial analytics — Kimball dimensional modeling, SCD Type 2, incremental processing, testing & documentation.
+
+- **[Walletflow-PH](https://github.com/ikigamisama/Walletflow-PH)**  
+  Real-time wallet transaction analytics using Spark Streaming + Kafka, including rule-based fraud detection patterns.
+
+- **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**  
+  Microservices-based remittance processing pipeline with TimescaleDB for time-series storage and Streamlit dashboards.
+
+- **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**  
+  High-performance async web scraper built with Playwright — robust error handling, retries, proxy support, designed for ETL ingestion.
+
+### Analytics & Visualization Platforms
+- **[Data-Swiss-Knife-with-AI](https://github.com/ikigamisama/Data-Swiss-Knife-with-AI)**  
+  Production-ready, self-hosted data exploration & analysis platform powered by Streamlit + Ollama (local LLM integration).
+
+- **[PSEI_CAPM](https://github.com/ikigamisama/PSEI_CAPM)**  
+  Interactive Streamlit app for calculating Capital Asset Pricing Model (CAPM) on Philippine Stock Exchange (PSEI) data.
+
+- **[E-Commerce-Sales-Analytics-Dashboard](https://github.com/ikigamisama/E-Commerce-Sales-Analytics-Dashboard)**  
+  Comprehensive interactive e-commerce sales dashboard built with Streamlit + Plotly (KPIs, trends, cohort analysis).
+
+- **[Customer-Behavior-Analytics](https://github.com/ikigamisama/Customer-Behavior-Analytics)**  
+  Deep-dive customer analytics dashboard revealing purchasing patterns, segmentation, RFM, and behavioral insights.
+
+- **[Simple-Coffee-Shop-Sales-Dashboard](https://github.com/ikigamisama/Simple-Coffee-Shop-Sales-Dashboard)**  
+  Clean, interactive coffee shop sales analytics dashboard using Streamlit + Plotly (time-series trends, product performance).
+
+- **[Sales-Analysis-Dashboard-Streamlit](https://github.com/ikigamisama/Sales-Analysis-Dashboard-Streamlit)**  
+  End-to-end sales performance dashboard for business metrics, revenue insights, and trend visualization (Acme Corp sample).
+
+### Tools, References & Utilities
+- **[SyntheticDataCrafter](https://github.com/ikigamisama/SyntheticDataCrafter)**  
+  Fluent, developer-friendly Python API for generating statistically realistic synthetic datasets with multi-format export.
+
+- **[The Modern Data Stack Cheat Sheet](https://github.com/ikigamisama/Modern-Data-Stack-Cheat-Sheet)**  
+  Practical, engineering-focused reference guide covering tools, patterns, and decisions in the modern data ecosystem.
 
 
 ## 🛠️ Skills & Tech Stack
