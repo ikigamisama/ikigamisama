@@ -20,12 +20,14 @@
   <br/>
 
   <!-- Badges / Quick facts -->
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/dbt-Advanced-FF694B?style=for-the-badge&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Airflow-Experienced-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Spark--Kafka%20Streaming-000000?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark & Kafka" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-Lakehouse-4C8BF5?style=for-the-badge&logoColor=white" alt="Delta Lake" />
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/dbt-Advanced-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/Airflow-Experienced-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+<img src="https://img.shields.io/badge/Spark-Streaming-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+<img src="https://img.shields.io/badge/Kafka-Streaming-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/badge/Delta%20Lake-Lakehouse-00ADD8?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
+
 
   <br/><br/>
 
