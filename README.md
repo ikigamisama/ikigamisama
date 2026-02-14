@@ -71,8 +71,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
   High-performance async web scraper built with Playwright — robust error handling, retries, proxy support, designed for ETL ingestion.
 
 ### Analytics & Visualization Platforms
-- **[Data-Swiss-Knife-with-AI](https://github.com/ikigamisama/Data-Swiss-Knife-with-AI)**  
-  Production-ready, self-hosted data exploration & analysis platform powered by Streamlit + Ollama (local LLM integration).
+
+- **[Ultimate-Customer-Churn-Analysis-Dashboard](https://github.com/ikigamisama/Ultimate-Customer-Churn-Analysis-Dashboard)**  
+  A comprehensive Streamlit dashboard for analyzing customer churn patterns with interactive visualizations and prediction churn.
 
 - **[PSEI_CAPM](https://github.com/ikigamisama/PSEI_CAPM)**  
   Interactive Streamlit app for calculating Capital Asset Pricing Model (CAPM) on Philippine Stock Exchange (PSEI) data.
