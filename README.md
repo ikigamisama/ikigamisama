@@ -72,6 +72,12 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 
 ### Analytics & Visualization Platforms
 
+- **[Retail-Sales-KPI-Dashboard](https://github.com/ikigamisama/Retail-Sales-KPI-Dashboard)**  
+  A comprehensive, interactive analytics dashboard built on streamlit designed to provide real-time insights into retail business performance.
+
+- **[Customer-Cohort-Analysis-Dashboard](https://github.com/ikigamisama/Customer-Cohort-Analysis-Dashboard)**  
+  A comprehensive Streamlit dashboard for analyzing customer cohorts, revenue trends, and behavioral patterns.
+
 - **[Ultimate-Customer-Churn-Analysis-Dashboard](https://github.com/ikigamisama/Ultimate-Customer-Churn-Analysis-Dashboard)**  
   A comprehensive Streamlit dashboard for analyzing customer churn patterns with interactive visualizations and prediction churn.
 
