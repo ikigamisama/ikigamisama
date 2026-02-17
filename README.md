@@ -81,8 +81,8 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 - **[Ultimate-Customer-Churn-Analysis-Dashboard](https://github.com/ikigamisama/Ultimate-Customer-Churn-Analysis-Dashboard)**  
   A comprehensive Streamlit dashboard for analyzing customer churn patterns with interactive visualizations and prediction churn.
 
-- **[PSEI_CAPM](https://github.com/ikigamisama/PSEI_CAPM)**  
-  Interactive Streamlit app for calculating Capital Asset Pricing Model (CAPM) on Philippine Stock Exchange (PSEI) data.
+- **[Marketing-Dashboard-Retail-Sales-Campaign-Analysis](https://github.com/ikigamisama/Marketing-Dashboard-Retail-Sales-Campaign-Analysis)**  
+  An interactive, multi-tab analytics dashboard built for exploring and understanding marketing campaign performance across companies, channels, audiences, and time.
 
 - **[E-Commerce-Sales-Analytics-Dashboard](https://github.com/ikigamisama/E-Commerce-Sales-Analytics-Dashboard)**  
   Comprehensive interactive e-commerce sales dashboard built with Streamlit + Plotly (KPIs, trends, cohort analysis).
@@ -95,6 +95,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 
 - **[Sales-Analysis-Dashboard-Streamlit](https://github.com/ikigamisama/Sales-Analysis-Dashboard-Streamlit)**  
   End-to-end sales performance dashboard for business metrics, revenue insights, and trend visualization (Acme Corp sample).
+
+- **[PSEI_CAPM](https://github.com/ikigamisama/PSEI_CAPM)**  
+  Interactive Streamlit app for calculating Capital Asset Pricing Model (CAPM) on Philippine Stock Exchange (PSEI) data.
 
 ### Tools, References & Utilities
 - **[SyntheticDataCrafter](https://github.com/ikigamisama/SyntheticDataCrafter)**  
