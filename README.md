@@ -21,8 +21,8 @@
 
   <!-- Badges / Quick facts -->
 <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/dbt-Advanced-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/dbt-Experienced-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
 <img src="https://img.shields.io/badge/Airflow-Experienced-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
 <img src="https://img.shields.io/badge/Spark-Experienced-017CEE?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
 <img src="https://img.shields.io/badge/Kafka-Experienced-017CEE?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
