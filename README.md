@@ -81,6 +81,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 - **[Ultimate-Customer-Churn-Analysis-Dashboard](https://github.com/ikigamisama/Ultimate-Customer-Churn-Analysis-Dashboard)**  
   A comprehensive Streamlit dashboard for analyzing customer churn patterns with interactive visualizations and prediction churn.
 
+- **[US-Candy-Distributor-Analytics-Dashboard](https://github.com/ikigamisama/US-Candy-Distributor-Analytics-Dashboard)**  
+  A dark-themed, fully interactive analytics dashboard built with Streamlit and Plotly.
+
 - **[Marketing-Dashboard-Retail-Sales-Campaign-Analysis](https://github.com/ikigamisama/Marketing-Dashboard-Retail-Sales-Campaign-Analysis)**  
   An interactive, multi-tab analytics dashboard built for exploring and understanding marketing campaign performance across companies, channels, audiences, and time.
 
