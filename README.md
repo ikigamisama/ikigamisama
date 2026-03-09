@@ -72,6 +72,9 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 
 ### Analytics & Visualization Platforms
 
+- **[Supply-Chain-Analytics-Dashboard](https://github.com/ikigamisama/Supply-Chain-Analytics-Dashboard)**  
+  A comprehensive, interactive analytics platform for end-to-end supply chain visibility — covering executive performance, supplier relationships, production operations, inventory health, shipment logistics, and sales outcomes.
+
 - **[Retail-Sales-KPI-Dashboard](https://github.com/ikigamisama/Retail-Sales-KPI-Dashboard)**  
   A comprehensive, interactive analytics dashboard built on streamlit designed to provide real-time insights into retail business performance.
 
