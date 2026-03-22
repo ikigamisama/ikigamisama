@@ -52,6 +52,16 @@
 These repositories demonstrate end-to-end Data Engineering skills — from scalable pipelines and lakehouse architecture to real-time streaming, data quality, analytics platforms, and AI-assisted tools. Most include architecture diagrams, full code, deployment setups, and documentation.
 
 ### Data Engineering & Pipelines
+
+- **[ETL-Table-Driven](https://github.com/ikigamisama/ETL-Table-Driven)**  
+  A production-grade, metadata-driven ETL pipeline framework where all business logic lives in config — not code. Adding a new pipeline requires zero Python. You drop a JSON file and run.
+
+- **[Walletflow-PH](https://github.com/ikigamisama/Walletflow-PH)**  
+  Real-time wallet transaction analytics using Spark Streaming + Kafka, including rule-based fraud detection patterns.
+
+- **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**  
+  Microservices-based remittance processing pipeline with TimescaleDB for time-series storage and Streamlit dashboards.
+
 - **[DataLakehouse-Delta](https://github.com/ikigamisama/DataLakehouse-Delta)**  
   Production-grade Data Lakehouse implementation using Delta Lake (ACID transactions, time travel, schema enforcement).
 
@@ -60,12 +70,6 @@ These repositories demonstrate end-to-end Data Engineering skills — from scala
 
 - **[finance_analytics_dbt](https://github.com/ikigamisama/finance_analytics_dbt)**  
   100+ dbt models for banking/financial analytics — Kimball dimensional modeling, SCD Type 2, incremental processing, testing & documentation.
-
-- **[Walletflow-PH](https://github.com/ikigamisama/Walletflow-PH)**  
-  Real-time wallet transaction analytics using Spark Streaming + Kafka, including rule-based fraud detection patterns.
-
-- **[RemitFlowPH](https://github.com/ikigamisama/RemitFlowPH)**  
-  Microservices-based remittance processing pipeline with TimescaleDB for time-series storage and Streamlit dashboards.
 
 - **[Iki-Scraper](https://github.com/ikigamisama/Iki-Scraper)**  
   High-performance async web scraper built with Playwright — robust error handling, retries, proxy support, designed for ETL ingestion.
